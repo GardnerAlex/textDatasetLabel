@@ -60,3 +60,18 @@ button:active {
 button:focus {
 	border-color: #666;
 }
+
+.class1 {
+	background: red;
+} 
+.class2 {
+	background: green;
+} 
+
+.class3 {
+	background: blue;
+} 
+
+.selCandidate {
+	background: gray;
+}
